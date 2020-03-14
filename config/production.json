@@ -1,0 +1,6 @@
+{
+    "mongoURI": "mongodb+srv://admin:admin@mongo-of-dong-xyphl.mongodb.net/soicals?retryWrites=true&w=majority",
+    "jwtSecret": "nguyenhophudong",
+    "githubClientId": "5282a16a72df3f745b41",
+    "githubSecret": "5574ff401ce838e3db051a8b1f1c153616da14ec"
+}
